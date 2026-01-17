@@ -14,7 +14,28 @@
 
 .card-pad {
 
-    margin-top: 3em;
-    margin-left: 3em;
+    margin-top: 5em;
+    margin-left: 5em;
 
+}
+
+/* call now */
+
+.call-pad {
+
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+
+/* google maps pad */
+
+.gog-pad {
+
+    margin-top: 3em;
+}
+
+.gog-pad2 {
+
+    margin-top: 3em;
 }
